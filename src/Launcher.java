@@ -27,7 +27,7 @@ public class Launcher
                 }
                 else
                 {
-                    System.out.println("PLAYER "+(i+1)+" LOSSES!");
+                    System.out.println("PLAYER "+(i+1)+" LOST!");
                 }
             }
             x = env.Randomchoice();
